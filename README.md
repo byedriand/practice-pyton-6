@@ -2,7 +2,7 @@
 
 Latihan soal dari **Modul Pemrograman Python (Pertemuan 6): Function, Parameter, Return Value, Scope, Lambda, Module, Package & Library** — Program Studi Sistem Informasi.
 
-Nama: **Adrian Ronald Daga** · NIM: **20241320011** · GitHub: [@byedriand](https://github.com/byedriand)
+Nama: **Adrian Ronald Daga** · NPM: **20241320011** · GitHub: [@byedriand](https://github.com/byedriand)
 
 ## Isi Repository
 
