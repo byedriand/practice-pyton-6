@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="802" height="672" viewBox="0 0 802 672">
+<rect width="802" height="672" rx="8" fill="#0d1117"/>
+<rect width="802" height="40" fill="#202630"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="86" y="25" font-family="monospace" font-size="13" fill="#c8d1d9">terminal — praktik_3_modul/main.py</text>
+<text x="22" y="66" font-family="monospace" font-size="15" font-weight="bold" fill="#7ee787" xml:space="preserve">$ python3 praktik_3_modul/main.py</text>
+<text x="22" y="87" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">=== Praktik 3: Menggunakan Module utilitas_akademik ===</text>
+<text x="22" y="108" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">(fungsi diimpor dari utilitas_akademik.py)</text>
+<text x="22" y="129" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="150" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Konversi nilai huruf:</text>
+<text x="22" y="171" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Pemrograman Python           nilai  90 -&gt; A</text>
+<text x="22" y="192" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Basis Data                   nilai  78 -&gt; B</text>
+<text x="22" y="213" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Sistem Informasi Manajemen   nilai  85 -&gt; A</text>
+<text x="22" y="234" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Statistika                   nilai  65 -&gt; C</text>
+<text x="22" y="255" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="276" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">IPK Adrian: 3.30</text>
+<text x="22" y="297" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="318" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">====================================================</text>
+<text x="22" y="339" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">TRANSKRIP NILAI MAHASISWA</text>
+<text x="22" y="360" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">====================================================</text>
+<text x="22" y="381" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Nama : Adrian Ronald Daga</text>
+<text x="22" y="402" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">NIM  : 20241320011</text>
+<text x="22" y="423" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">----------------------------------------------------</text>
+<text x="22" y="444" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Mata Kuliah                  SKS  Nilai  Huruf</text>
+<text x="22" y="465" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">----------------------------------------------------</text>
+<text x="22" y="486" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Pemrograman Python             3     90      A</text>
+<text x="22" y="507" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Basis Data                     3     78      B</text>
+<text x="22" y="528" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Sistem Informasi Manajemen     2     85      A</text>
+<text x="22" y="549" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Statistika                     2     65      C</text>
+<text x="22" y="570" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">----------------------------------------------------</text>
+<text x="22" y="591" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Total SKS : 10</text>
+<text x="22" y="612" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">IPK       : 3.30</text>
+<text x="22" y="633" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Status    : Lulus</text>
+<text x="22" y="654" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">====================================================</text>
+</svg>

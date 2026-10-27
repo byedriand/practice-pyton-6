@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1043" height="399" viewBox="0 0 1043 399">
+<rect width="1043" height="399" rx="8" fill="#0d1117"/>
+<rect width="1043" height="40" fill="#202630"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="86" y="25" font-family="monospace" font-size="13" fill="#c8d1d9">terminal — praktik_1_statistik.py</text>
+<text x="22" y="66" font-family="monospace" font-size="15" font-weight="bold" fill="#7ee787" xml:space="preserve">$ python3 praktik_1_statistik.py</text>
+<text x="22" y="87" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">=== Praktik 1: hitung_statistik() ===</text>
+<text x="22" y="108" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Data        : [85, 90, 78, 92, 88, 85, 95, 85, 70, 88]</text>
+<text x="22" y="129" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Jumlah data : 10</text>
+<text x="22" y="150" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="171" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">--- Hasil Statistik ---</text>
+<text x="22" y="192" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Mean (rata-rata)       : 85.60</text>
+<text x="22" y="213" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Median (nilai tengah)  : 86.5</text>
+<text x="22" y="234" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Modus (paling sering)  : 85</text>
+<text x="22" y="255" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Range (max - min)      : 25 (min=70, max=95)</text>
+<text x="22" y="276" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Standard Deviation     : 7.1678</text>
+<text x="22" y="297" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="318" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Dictionary hasil       : {&#x27;mean&#x27;: 85.6, &#x27;median&#x27;: 86.5, &#x27;modus&#x27;: 85, &#x27;range&#x27;: 25, &#x27;std_dev&#x27;: 7.167829363048327}</text>
+<text x="22" y="339" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="360" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Data kedua  : [70.5, 80.0, 90.5, 60.0]</text>
+<text x="22" y="381" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Hasil kedua : mean=75.25, median=75.25, modus=None, range=30.5, std_dev=13.0416</text>
+</svg>

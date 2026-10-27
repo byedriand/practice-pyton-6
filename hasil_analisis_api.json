@@ -1,0 +1,211 @@
+{
+  "sumber_data": "api",
+  "api": "https://jsonplaceholder.typicode.com",
+  "total_post": 100,
+  "total_user": 10,
+  "rata_rata_panjang_body": 160.64,
+  "jumlah_post_body_panjang_gt_100": 100,
+  "id_post_body_panjang": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "post_terpanjang": [
+    {
+      "id": 13,
+      "userId": 2,
+      "penulis": "Ervin Howell",
+      "judul": "dolorum ut in voluptas mollitia et saepe quo animi",
+      "panjang_body": 225
+    },
+    {
+      "id": 69,
+      "userId": 7,
+      "penulis": "Kurtis Weissnat",
+      "judul": "fugiat quod pariatur odit minima",
+      "panjang_body": 218
+    },
+    {
+      "id": 97,
+      "userId": 10,
+      "penulis": "Clementina DuBuque",
+      "judul": "quas fugiat ut perspiciatis vero provident",
+      "panjang_body": 215
+    },
+    {
+      "id": 20,
+      "userId": 2,
+      "penulis": "Ervin Howell",
+      "judul": "doloribus ad provident suscipit at",
+      "panjang_body": 213
+    },
+    {
+      "id": 34,
+      "userId": 4,
+      "penulis": "Patricia Lebsack",
+      "judul": "magnam ut rerum iure",
+      "panjang_body": 212
+    }
+  ],
+  "post_per_user": [
+    {
+      "userId": 1,
+      "penulis": "Leanne Graham",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 2,
+      "penulis": "Ervin Howell",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 3,
+      "penulis": "Clementine Bauch",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 4,
+      "penulis": "Patricia Lebsack",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 5,
+      "penulis": "Chelsey Dietrich",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 6,
+      "penulis": "Mrs. Dennis Schulist",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 7,
+      "penulis": "Kurtis Weissnat",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 8,
+      "penulis": "Nicholas Runolfsdottir V",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 9,
+      "penulis": "Glenna Reichert",
+      "jumlah_post": 10
+    },
+    {
+      "userId": 10,
+      "penulis": "Clementina DuBuque",
+      "jumlah_post": 10
+    }
+  ],
+  "judul_terurut_alfabetis": [
+    "a quo magni similique perferendis",
+    "ad iusto omnis odit dolor voluptatibus",
+    "adipisci placeat illum aut reiciendis qui",
+    "aliquid eos sed fuga est maxime repellendus",
+    "asperiores ea ipsam voluptatibus modi minima quia sint",
+    "at nam consequatur ea labore ea harum",
+    "aut amet sed",
+    "aut quo modi neque nostrum ducimus",
+    "autem hic labore sunt dolores incidunt",
+    "beatae enim quia vel"
+  ]
+}

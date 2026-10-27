@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1025" height="420" viewBox="0 0 1025 420">
+<rect width="1025" height="420" rx="8" fill="#0d1117"/>
+<rect width="1025" height="40" fill="#202630"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="86" y="25" font-family="monospace" font-size="13" fill="#c8d1d9">terminal — praktik_2_validasi_data.py</text>
+<text x="22" y="66" font-family="monospace" font-size="15" font-weight="bold" fill="#7ee787" xml:space="preserve">$ python3 praktik_2_validasi_data.py</text>
+<text x="22" y="87" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">=== Praktik 2: validasi_data() ===</text>
+<text x="22" y="108" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Schema: nama (str, wajib, min_length 3), umur (int, 17-60),</text>
+<text x="22" y="129" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">        ipk (float, 0.0-4.0), email (str, wajib)</text>
+<text x="22" y="150" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="171" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Kasus 1 (valid)   : {&#x27;nama&#x27;: &#x27;Adrian&#x27;, &#x27;umur&#x27;: 21, &#x27;ipk&#x27;: 3.75, &#x27;email&#x27;: &#x27;adrian@kampus.ac.id&#x27;}</text>
+<text x="22" y="192" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  -&gt; is_valid=True, errors=[]</text>
+<text x="22" y="213" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="234" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Kasus 2 (invalid) : {&#x27;nama&#x27;: &#x27;Ad&#x27;, &#x27;umur&#x27;: 70, &#x27;ipk&#x27;: 4.5}</text>
+<text x="22" y="255" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  -&gt; is_valid=False</text>
+<text x="22" y="276" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">     - Field &#x27;email&#x27; wajib diisi tetapi tidak ditemukan</text>
+<text x="22" y="297" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">     - Field &#x27;nama&#x27;: panjang 2 di bawah min_length 3</text>
+<text x="22" y="318" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">     - Field &#x27;umur&#x27;: nilai 70 di atas maksimum 60</text>
+<text x="22" y="339" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">     - Field &#x27;ipk&#x27;: nilai 4.5 di atas maksimum 4.0</text>
+<text x="22" y="360" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="381" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Kasus 3 (strict)  : {&#x27;nama&#x27;: &#x27;Budi&#x27;, &#x27;umur&#x27;: 20, &#x27;ipk&#x27;: 3.5, &#x27;email&#x27;: &#x27;budi@kampus.ac.id&#x27;, &#x27;hobi&#x27;: &#x27;membaca&#x27;}</text>
+<text x="22" y="402" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  -&gt; is_valid=False, errors=[&quot;Field &#x27;hobi&#x27; tidak dikenal dalam schema (mode strict)&quot;]</text>
+</svg>

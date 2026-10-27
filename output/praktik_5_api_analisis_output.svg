@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="926" height="525" viewBox="0 0 926 525">
+<rect width="926" height="525" rx="8" fill="#0d1117"/>
+<rect width="926" height="40" fill="#202630"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="86" y="25" font-family="monospace" font-size="13" fill="#c8d1d9">terminal — praktik_5_api_analisis.py</text>
+<text x="22" y="66" font-family="monospace" font-size="15" font-weight="bold" fill="#7ee787" xml:space="preserve">$ python3 praktik_5_api_analisis.py</text>
+<text x="22" y="87" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">=== Praktik 5: Analisis API JSONPlaceholder ===</text>
+<text x="22" y="108" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Sumber data : api (https://jsonplaceholder.typicode.com)</text>
+<text x="22" y="129" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Terambil    : 100 post, 10 user</text>
+<text x="22" y="150" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="171" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Total post                 : 100</text>
+<text x="22" y="192" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Rata-rata panjang body     : 160.64 karakter</text>
+<text x="22" y="213" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Post body &gt; 100 karakter   : 100 post</text>
+<text x="22" y="234" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="255" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">5 post dengan body terpanjang (sorted + lambda):</text>
+<text x="22" y="276" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Post #13  oleh Ervin Howell         225 karakter - dolorum ut in voluptas mollitia et saepe quo </text>
+<text x="22" y="297" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Post #69  oleh Kurtis Weissnat      218 karakter - fugiat quod pariatur odit minima</text>
+<text x="22" y="318" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Post #97  oleh Clementina DuBuque   215 karakter - quas fugiat ut perspiciatis vero provident</text>
+<text x="22" y="339" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Post #20  oleh Ervin Howell         213 karakter - doloribus ad provident suscipit at</text>
+<text x="22" y="360" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Post #34  oleh Patricia Lebsack     212 karakter - magnam ut rerum iure</text>
+<text x="22" y="381" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="402" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Post per user terbanyak (sorted + lambda):</text>
+<text x="22" y="423" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Leanne Graham        : 10 post</text>
+<text x="22" y="444" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Ervin Howell         : 10 post</text>
+<text x="22" y="465" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Clementine Bauch     : 10 post</text>
+<text x="22" y="486" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="507" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Hasil disimpan ke: hasil_analisis_api.json</text>
+</svg>

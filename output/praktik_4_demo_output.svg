@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="802" height="588" viewBox="0 0 802 588">
+<rect width="802" height="588" rx="8" fill="#0d1117"/>
+<rect width="802" height="40" fill="#202630"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="86" y="25" font-family="monospace" font-size="13" fill="#c8d1d9">terminal — praktik_4_demo.py</text>
+<text x="22" y="66" font-family="monospace" font-size="15" font-weight="bold" fill="#7ee787" xml:space="preserve">$ python3 praktik_4_demo.py</text>
+<text x="22" y="87" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">=== Praktik 4: Package sistem_informasi - CRUD Mahasiswa ===</text>
+<text x="22" y="108" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Struktur: sistem_informasi/{model, service, utils}</text>
+<text x="22" y="129" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="150" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">--- CREATE: tambah 3 mahasiswa ---</text>
+<text x="22" y="171" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">Jumlah tersimpan: 3</text>
+<text x="22" y="192" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="213" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">--- READ: semua mahasiswa ---</text>
+<text x="22" y="234" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  20241320011 | Adrian Ronald Daga | Sistem Informasi | IPK 3.75</text>
+<text x="22" y="255" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  20241320018 | Arya Adi Muhammad Iqbal | Sistem Informasi | IPK 3.60</text>
+<text x="22" y="276" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  20241320038 | Fakhry Ahmad Fauzan | Sistem Informasi | IPK 3.85</text>
+<text x="22" y="297" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="318" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">--- READ: ambil NIM 20241320011 ---</text>
+<text x="22" y="339" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  20241320011 | Adrian Ronald Daga | Sistem Informasi | IPK 3.75</text>
+<text x="22" y="360" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="381" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">--- UPDATE: IPK Adrian 3.75 -&gt; 3.80 ---</text>
+<text x="22" y="402" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  20241320011 | Adrian Ronald Daga | Sistem Informasi | IPK 3.80</text>
+<text x="22" y="423" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="444" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">--- DELETE: hapus NIM 20241320018 ---</text>
+<text x="22" y="465" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Berhasil dihapus: True</text>
+<text x="22" y="486" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  Jumlah tersimpan sekarang: 2</text>
+<text x="22" y="507" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve"></text>
+<text x="22" y="528" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">--- READ akhir: sisa mahasiswa ---</text>
+<text x="22" y="549" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  20241320011 | Adrian Ronald Daga | Sistem Informasi | IPK 3.80</text>
+<text x="22" y="570" font-family="monospace" font-size="15" fill="#e6edf3" xml:space="preserve">  20241320038 | Fakhry Ahmad Fauzan | Sistem Informasi | IPK 3.85</text>
+</svg>
